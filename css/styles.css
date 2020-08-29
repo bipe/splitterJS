@@ -1,0 +1,50 @@
+
+#content, h1, footer{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	margin: 15px auto;
+	max-width: 720px;
+}
+
+#finaliza_cli_help {
+	margin-bottom: auto;
+}
+
+
+.etapa { 
+	width: 640px;
+	padding: 12px 20px;
+	margin: 15px 0;
+	display: block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+.form-check{
+	margin: 5px;
+}
+
+.btn-success{
+	width: 165px;
+	margin-bottom: 25px;
+}
+
+.form-check {
+	margin: 30px 0 0 20px;
+}
+
+.btn-primary{
+	margin: 20px 0 0 -15px;
+}
+
+
+h1{
+	margin-top: 35px;
+}
+
+h4, .form-text {
+	margin: 5px 0 20px;
+}
+
