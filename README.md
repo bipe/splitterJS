@@ -1,6 +1,6 @@
 # SplitterJS
 
-link (tbd)
+https://bipe.github.io/splitterJS/
 
 ### Description
 SplitterJS is a simple application built with Javascript on HTML and Bootstrap to make it easier to split the check (or bill) in restaurants, bars and the like.
@@ -15,7 +15,7 @@ SplitterJS is a simple application built with Javascript on HTML and Bootstrap t
 
 ### Changelog
 
-#### v1.0 ():
+#### [v1.0: ](https://github.com/bipe/splitterJS/commit/8e94b022a6458b00b78aa383ab83ff4b7fdeb1c7)
 - Still lacks validation in some input fields;
 - Portuguese (PT-BR) version only;
 - Still works fine if you follow the rules.
